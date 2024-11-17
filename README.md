@@ -28,11 +28,11 @@ Compartilhar e colaborar com a comunidade em projetos inovadores de open-source.
 
 - Exploração de movimento aéreo brasileiro.
 
-### ________________________________________________________________________________________________________________________
+### ___________________________________________________________________________________________________________________
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-209b87?style=for-the-badge&logo=kaggle&logoColor=white) (https://www.kaggle.com/robertoguimares)
 
-### ________________________________________________________________________________________________________________________
+### ___________________________________________________________________________________________________________________
 
 ### Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
