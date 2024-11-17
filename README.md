@@ -22,13 +22,15 @@ Olá, me chamo Roberto e com formação em Análise de Dados pela EBAC, tenho pa
 
 ### 🚀 Objetivos:
 
-Aplicar minhas habilidades analíticas para resolver problemas reais e criar impacto positivo nos negócios e na sociedade.
-Aprofundar meus conhecimentos em ciência de dados, inteligência artificial, e aprendizado de máquina.
-Compartilhar e colaborar com a comunidade em projetos inovadores de open-source.
+-Aplicar minhas habilidades analíticas para resolver problemas reais e criar impacto positivo nos negócios e na sociedade.
+-Aprofundar meus conhecimentos em ciência de dados, inteligência artificial, e aprendizado de máquina.
+-Compartilhar e colaborar com a comunidade em projetos inovadores de open-source.
 
 #### 👨‍💻 Projetos em Andamento:
 
 - Exploração de movimento aéreo brasileiro.
+- Exploração de movimento aéreo europeu.
+- Variação demográfica mundial
 
 ### ___________________________________________________________________________________________________________________
 
