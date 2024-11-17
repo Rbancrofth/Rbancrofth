@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/Gmail-D00000?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.instagram.com/rbancrofth/" alt="Instagram" title="Roberto Guimarães">
     <img src="https://img.shields.io/badge/Instagram-EA4AAA?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.kaggle.com/robertoguimares" alt="Kaggle" title="Roberto Guimarães">
+    <img src="https://img.shields.io/badge/Kaggle-209b87?logo=kaggle&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 
@@ -27,10 +29,6 @@ Compartilhar e colaborar com a comunidade em projetos inovadores de open-source.
 #### 👨‍💻 Projetos em Andamento:
 
 - Exploração de movimento aéreo brasileiro.
-
-### ___________________________________________________________________________________________________________________
-
-![Kaggle](https://img.shields.io/badge/Kaggle-209b87?style=for-the-badge&logo=kaggle&logoColor=white) (https://www.kaggle.com/robertoguimares)
 
 ### ___________________________________________________________________________________________________________________
 
