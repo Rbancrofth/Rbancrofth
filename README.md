@@ -32,6 +32,9 @@ Olá, me chamo Roberto e com formação em Análise de Dados pela EBAC, tenho pa
 - Exploração de movimento aéreo europeu.
 - Variação demográfica mundial
 
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Rbancrofth&show_icons=true)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbancrofth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ___________________________________________________________________________________________________________________
 
 ### Tecnologias e Ferramentas
